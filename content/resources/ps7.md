@@ -5,6 +5,7 @@ file: /courses/16-120-compressible-flow-spring-2003/4d777f4a92873cb4b5228cf10d12
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps7.pdf
 uid: 4d777f4a-9287-3cb4-b522-8cf10d12bbc8
 ---
 Derivation assignment.
-
