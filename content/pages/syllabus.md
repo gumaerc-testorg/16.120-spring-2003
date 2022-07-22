@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, concepts
+  addressed, learning objectives, measurable outcomes, quizzes and problem sets, lecturers,
+  and class exercises.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2f709565-8fe0-6e42-637a-e862fde2290a
 ---

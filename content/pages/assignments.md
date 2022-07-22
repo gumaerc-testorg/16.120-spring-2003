@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the course assignments and lecture material most
+  relevant to the problems.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 33170660-358e-27cb-6905-c23177f6123a
 ---
@@ -40,8 +45,8 @@ ASSIGNMENTS
 Shock Waves
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))  
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps4v2))
+Problem Set 3 ({{% resource_link f671b80e-0246-74ad-ab0e-f48a5c223715 "PDF" %}})  
+Problem Set 4 ({{% resource_link 4bd855c4-e28f-dfab-6fce-8b440e5ba532 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +82,7 @@ Detonations
 Crocco's Theorem
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+Problem Set 5 ({{% resource_link 92d002c4-4f31-0345-95b9-334a75126523 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +106,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps5))
 Constant Entropy Flows
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps6))
+Problem Set 6 ({{% resource_link ac973d20-473d-64ff-239a-f60c2566e923 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +142,7 @@ Slender, Axially Symmetric Flows
 Inviscid, Unsteady Transonic Flows
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
+Problem Set 7 ({{% resource_link 4d777f4a-9287-3cb4-b522-8cf10d12bbc8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +154,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps7))
 Inviscid Hypersonic Flows
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps8v2))
+Problem Set 8 ({{% resource_link 06c45ba5-cee9-7ba6-dcff-bcd49e7500b8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

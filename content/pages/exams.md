@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section provides final oral exam for the course.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 79e95e71-4c39-696c-bb41-3c1d00a08370
 ---
 
 Both the midterm and final exams in 16.120 were conducted orally. Students were given the problems in advance, and alloted time to devise solutions. Each student would then present their solutions to the instructors. In contrast to a written exam, the format allows for dialog between faculty and student, often allowing more accurate evaluation.
 
-Final Oral Exam (also available in [PDF]({{< baseurl >}}/resources/oralfinalv2))
+Final Oral Exam (also available in {{% resource_link 3e37eb9f-8f63-e48b-13bf-982297b7996d "PDF" %}})
 --------------------------------------------------------------------------------
 
 Do both problems.
@@ -19,7 +23,7 @@ Problem 2.
 
 Consider a row of guide vanes in a compressible internal flow as shown below. There is a pressure probe at a measurement location a distance L upstream of the blade row. At time t=t0, the setting of the blades is changed suddenly such that they assume the position denoted by the solid blades, perturbing the mass flow in a one-dimensional sense.
 
-![](/courses/aeronautics-and-astronautics/16-120-compressible-flow-spring-2003/exams/oralgraphic.jpg)
+{{< resource "664a5d53-1ca3-9057-7eef-5ca592fadab3" >}}
 
 a) What are the governing equations representing the flow field in this situation?
 
