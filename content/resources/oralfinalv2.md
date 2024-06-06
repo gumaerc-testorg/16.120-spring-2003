@@ -2,6 +2,7 @@
 content_type: resource
 description: Two questions.
 file: /courses/16-120-compressible-flow-spring-2003/3e37eb9f8f63e48b13bf982297b7996d_oralfinalv2.pdf
+file_size: 107068
 file_type: application/pdf
 learning_resource_types:
 - Exams
