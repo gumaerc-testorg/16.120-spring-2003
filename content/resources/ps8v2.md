@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/16-120-compressible-flow-spring-2003/06c45ba5cee97ba6dcffbcd49e7500b8_ps8v2.pdf
+file_size: 82958
 file_type: application/pdf
 learning_resource_types:
 - Assignments

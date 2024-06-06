@@ -2,6 +2,7 @@
 content_type: resource
 description: Derivation assignment.
 file: /courses/16-120-compressible-flow-spring-2003/f671b80e024674adab0ef48a5c223715_ps3.pdf
+file_size: 61984
 file_type: application/pdf
 learning_resource_types:
 - Assignments
