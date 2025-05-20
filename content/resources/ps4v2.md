@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Demonstration assignment.
-file: /ol-ocw-studio-app/courses/16-120-compressible-flow-spring-2003/4bd855c4e28fdfab6fce8b440e5ba532_ps4v2.pdf
+file: /courses/16-120-compressible-flow-spring-2003/4bd855c4e28fdfab6fce8b440e5ba532_ps4v2.pdf
 file_size: 82090
 file_type: application/pdf
 learning_resource_types:

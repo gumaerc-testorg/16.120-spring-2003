@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A row of guide vanes in a compressible internal flow.
-file: /ol-ocw-studio-app/courses/16-120-compressible-flow-spring-2003/664a5d531ca390577eef5ca592fadab3_oralgraphic.jpg
+file: /courses/16-120-compressible-flow-spring-2003/664a5d531ca390577eef5ca592fadab3_oralgraphic.jpg
 file_size: 14114
 file_type: image/jpeg
 image_metadata:
