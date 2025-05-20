@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Derivation assignment.
-file: /ol-ocw-studio-app/courses/16-120-compressible-flow-spring-2003/4d777f4a92873cb4b5228cf10d12bbc8_ps7.pdf
+file: /courses/16-120-compressible-flow-spring-2003/4d777f4a92873cb4b5228cf10d12bbc8_ps7.pdf
 file_size: 60617
 file_type: application/pdf
 learning_resource_types:
